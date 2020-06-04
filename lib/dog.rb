@@ -1,5 +1,6 @@
-class Dog 
+class Dog(name) 
   def this_dogs_name
+    @name = name
   end
 end 
 
